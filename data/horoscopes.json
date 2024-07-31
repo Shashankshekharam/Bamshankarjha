@@ -1,0 +1,14 @@
+[
+    { "sign": "Aries", "prediction": "Today is a good day for new beginnings." },
+    { "sign": "Taurus", "prediction": "You may find financial opportunities today." },
+    { "sign": "Gemini", "prediction": "Communicate clearly to avoid misunderstandings." },
+    { "sign": "Cancer", "prediction": "Emotions may run high today, stay calm." },
+    { "sign": "Leo", "prediction": "Showcase your talents and shine bright." },
+    { "sign": "Virgo", "prediction": "Attention to detail will bring success." },
+    { "sign": "Libra", "prediction": "Balance is key in your relationships today." },
+    { "sign": "Scorpio", "prediction": "Trust your instincts, they won't lead you astray." },
+    { "sign": "Sagittarius", "prediction": "Adventure awaits, embrace it with open arms." },
+    { "sign": "Capricorn", "prediction": "Hard work will pay off in the long run." },
+    { "sign": "Aquarius", "prediction": "Innovative ideas will come to you today." },
+    { "sign": "Pisces", "prediction": "Listen to your intuition and follow your heart." }
+]
